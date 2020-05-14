@@ -1,0 +1,6 @@
+hash: 24c33ce92d0e523f74a8bd4aa051801e7a6bb8ff5f54a3d0e2b4270f59510eed
+updated: 2020-05-14T17:51:10.139636472+03:00
+imports:
+- name: github.com/alexflint/go-arg
+  version: 912ef0c3e4d40d5c964b50d36c9fe300b5d5c1fd
+testImports: []
